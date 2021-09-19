@@ -1,0 +1,300 @@
+
+.container-body {
+	display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+.container-col {
+	display: flex;
+    flex-flow: column wrap;
+}
+.container-row {
+	display: flex;
+    flex-flow: row wrap;
+}
+.container-spc-bwn {
+    justify-content: space-between;
+}
+.container-spc-evn {
+    justify-content: space-evenly;
+}
+.container-cen {
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    border-width:2px; 
+    border-color:gray; 
+    border-style:solid;
+    margin: 1px 1px 1px 1px;
+    font-size: small;
+}
+
+
+
+
+
+header{
+    width: 100%;
+}
+
+.heads {
+    box-sizing: border-box;
+}
+.nav {
+    width:100%;
+}
+
+.H1 {
+    width: 500px;
+    height: 80px;
+	display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.H1-img {
+    width: 200px;
+    height: 50px;
+}
+
+.H2{
+    width: 500px;
+    height: 50px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.H2-1{
+    width:500px;
+}
+
+.H3{
+    width: 500px;
+    height: 300px;
+	display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.H3-1{
+    width: 350px;
+    height: 180px;
+}
+.search {
+    width:500px;
+}
+
+.quickbtn {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+.quickbtn-img {
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
+
+section{
+    width: 100%;
+}
+
+.articles {
+    margin-top: 10px;
+    padding: 15px 15px 15px 15px;
+    box-sizing: border-box;
+}
+.A1{
+    width: 500px;
+    height: 80px;
+	display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+
+.A2{
+    width: 500px;
+    height: 250px;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.A2-3 {
+    width: 500px;
+    height: 150px;
+	display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.A3{
+    width: 500px;
+    height: 80px;
+	display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.A3-1{
+    width:48%;
+    height: 70px;
+	display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+.A3-2{
+    width:48%;
+    height: 70px;
+	display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+.A4{
+    width: 500px;
+    height: 60px;
+	display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.A4-1{
+    width:100%;
+    height: 70px;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+.A5{
+    width: 500px;
+    height: 70px;
+	display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.A5-1{
+    width: 100%;
+    height: 70px;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.A6{
+    width: 500px;
+    height: 60px;
+	display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+.A6-1{
+    width: 100%;
+    height: 70px;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.A7{
+    width: 500px;
+    height: 120px;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.A7-1{
+    width: 100%;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.A7-2{
+    width: 100%;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pan{
+    width:48%;
+}
+.A8{
+    width: 500px;
+    height: 60px;
+	display: flex;
+    flex-flow: col wrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.A8-1{
+    width: 100%;
+	display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer { 
+    width: 100%;
+}
+
+.F1{
+    width: 500px;
+    height: 200px;
+	display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+
+}
+
+.F1-1{
+	display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
